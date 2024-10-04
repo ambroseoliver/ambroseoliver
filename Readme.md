@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Mobile application development**
 
-- 💬 Ask me about **Devops**
+- 💬 Ask me about **Web appplications**
 
 - 📫 How to reach me **ishivaoliver@gmail.com**
 
