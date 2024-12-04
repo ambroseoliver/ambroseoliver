@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oliver Ambrose ishiva</h1>
-<h3 align="center">A passionate Fullstack developer and Junior cybersecurity analyst from Nairobi</h3>
+<h3 align="center">A passionate Junior Fullstack developer and Junior cybersecurity analyst from Nairobi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishivaoliver&label=Profile%20views&color=0e75b6&style=flat" alt="ishivaoliver" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Backend frameworks**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Cybersecurity**
 
