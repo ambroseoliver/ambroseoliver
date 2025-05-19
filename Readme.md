@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oliver Ambrose Ishiva</h1>
-<h3 align="center">Digital Marketer | Graphic Designer | Full-Stack Developer | Cybersecurity Specialist</h3>
+<h3 align="center"> Full-Stack Developer |Cybersecurity Specialist| Graphic Designer |Digital Marketer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishivaoliver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -52,6 +52,20 @@ Currently sharpening my full-stack and cybersecurity skills, I am eager to colla
 </p>
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishivaoliver&theme=merko&show_icons=true" alt="GitHub stats" />
+</p>
+
+### 🛠️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&layout=compact&theme=merko" alt="Top Languages" />
+</p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&layout=compact&theme=merko)
+
 
 ### 📫 Let's Connect
 
