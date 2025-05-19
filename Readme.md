@@ -47,42 +47,8 @@ Currently sharpening my full-stack and cybersecurity skills, I am eager to colla
 ---
 
 ---
-
----
-
-<div align="center" style="display: flex; justify-content: center; gap: 40px;">
-
-  <div>
-    <h3>📈 GitHub Stats</h3>
-    <p>⭐ Total Stars Earned: 15</p>
-    <p>⏱️ Total Commits (2025): 345</p>
-    <p>🛠️ Total PRs: 48</p>
-    <p>❗ Total Issues: 1</p>
-    <p>📖 Contributed to (last year): 9</p>
-    <p align="center"><img src="https://via.placeholder.com/80/B-?Text=B-" alt="GitHub Grade" /></p>
-  </div>
-
-  <div>
-    <h3>🛠️ Most Used Languages</h3>
-    <p>C: 61.13%</p>
-    <p>JavaScript: 16.51%</p>
-    <p>CSS: 9.00%</p>
-    <p>Blade: 5.20%</p>
-    <p>HTML: 4.68%</p>
-    <p>PHP: 3.49%</p>
-    <div style="display: flex; align-items: center;">
-      <div style="width: 61px; height: 10px; background-color: #808080; margin-right: 5px;"></div>
-      <div style="width: 17px; height: 10px; background-color: #FFDF00; margin-right: 5px;"></div>
-      <div style="width: 9px; height: 10px; background-color: #A371F7; margin-right: 5px;"></div>
-      <div style="width: 5px; height: 10px; background-color: #DC422F; margin-right: 5px;"></div>
-      <div style="width: 5px; height: 10px; background-color: #E34C26; margin-right: 5px;"></div>
-      <div style="width: 3px; height: 10px; background-color: #4F5D95;"></div>
-    </div>
-  </div>
-
-</div>
-
----
+📊 GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=ishivaoliver&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="47%" /> </div> <br/> <p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=ishivaoliver&icon=0&color=0" /> </a> </p>
 ---
 
 ### 📫 Let's Connect
