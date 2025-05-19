@@ -46,17 +46,23 @@ Currently sharpening my full-stack and cybersecurity skills, I am eager to colla
 
 ---
 
-### 📈 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishivaoliver&theme=merko&show_icons=true" alt="GitHub stats" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 40px;">
 
-### 🛠️ Most Used Languages
+  <div>
+    <h3>📈 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=ishivaoliver&theme=merko&show_icons=true" alt="GitHub stats" />
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&layout=compact&theme=merko" alt="Top Languages" />
-</p>
+  <div>
+    <h3>🛠️ Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&layout=compact&theme=merko" alt="Top Languages" />
+  </div>
+
+</div>
+
+---
 
 ---
 
