@@ -1,73 +1,68 @@
-<!-- Header Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Oliver+Ambrose+Ishiva+👋;Full-Stack+Developer+⚙️;Cybersecurity+Specialist+🛡️;Graphic+Designer+🎨;Digital+Marketer+📈" alt="Typing SVG" />
-</h1>
+<!-- Header Banner (upload your custom futuristic GIF to a repo or image host) -->
+<p align="center">
+  <img src="https://yourdomain.com/banner.gif" alt="Welcome Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Oliver Ambrose Ishiva</h1>
+<h3 align="center">Full-Stack Developer ⚙️ | Cybersecurity Specialist 🛡 | Graphic Designer 🎨 | Digital Marketer 📈</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishivaoliver&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ishivaoliver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 Architecting Digital Futures
+### 🧠 About Me
 
-I’m **Oliver Ambrose Ishiva**, a Nairobi-based **multi-disciplinary technologist** at the intersection of design, development, cybersecurity, and digital marketing. I don’t just write code — I **engineer experiences**, **fortify systems**, and **amplify digital brands**.
+🚀 I'm a **multi-skilled technologist** based in Nairobi, building the future at the crossroads of design, security, development, and marketing.
 
-My mission?  
-To shape future-ready solutions that solve real-world problems through **innovation**, **security**, and **visual brilliance**.
+💡 I **architect full-stack solutions**, **design visually compelling brands**, **market with digital precision**, and **secure digital assets** with best-in-class practices.
 
-- 🔭 Currently deepening my skills in **Full-Stack Engineering** and **Offensive Cybersecurity**  
-- 🧠 Always exploring the latest in **AI**, **DevSecOps**, and **digital growth strategies**
-- 🤝 Open to collaborations, freelance projects, and visionary tech teams  
-- ✨ Passionate about empowering businesses & individuals through bold digital transformation  
+🌐 Currently leveling up my full-stack and cybersecurity superpowers while exploring cutting-edge innovations.
+
+> "I don’t just build — I craft digital ecosystems that are secure, stunning, and scalable."
 
 ---
 
-### 🧠 Tech Arsenal
+### 💼 What I Bring to the Table
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,php,html,css,tailwind,bootstrap,figma,aws,docker,kubernetes,linux,git,github" />
-</p>
-
-> 💡 *From frontend finesse to backend logic. From secure cloud deployment to stunning UI — I deliver seamless, scalable, and secure systems.*
+- 🔧 End-to-end software development (frontend + backend)
+- 🛡 Cybersecurity audits, threat modeling & defense
+- 🎨 Creative graphic design for impactful branding
+- 📊 Data-driven digital marketing strategies
+- 🤝 Collaboration-ready mindset & commitment to excellence
 
 ---
 
-### 🚀 Project Highlights
+### 🧰 Tech Stack & Tools
 
-Here are some of the innovations I've been crafting:
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### 🏡 **Housepot — The Future of House Hunting**
-> A futuristic web + mobile platform streamlining rentals in Kenya  
-- 🎯 Built with: Next.js, Tailwind, Node.js, Prisma, PostgreSQL  
-- 🔐 Cyber-secured architecture with admin-level oversight  
-- 📸 Includes booking system for professional photo/video teams  
-- 🌐 [Live Demo Coming Soon]
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-#### 📡 **CyberOps Toolkit**
-> A custom-built command-line toolkit for penetration testing automation  
-- 💻 Stack: Python, Bash, Nmap, SQLmap, Metasploit integration  
-- 🧪 Focus: Red teaming, reconnaissance, and vulnerability scanning  
-- 🔐 Helps ethical hackers streamline threat simulations  
-- 🔗 [Private Repo | Showcase Available on Request]
-
-#### 🧠 **NeuroGrid – AI-Enhanced Task Management System**
-> Smart productivity dashboard that prioritizes, predicts & streamlines tasks  
-- 🧠 Built using OpenAI API, React, Tailwind, Flask  
-- ⏳ Uses AI to sort, assign, and recommend priority levels  
-- 📈 Designed for tech teams & entrepreneurs  
-- 🔗 [Demo | Coming Q3 2025]
+**Tools & Platforms**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishivaoliver&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&theme=radical&hide_border=false&layout=compact" width="47%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishivaoliver&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&theme=dark&hide_border=false&layout=compact" width="47%" />
 </div>
-
-<br/>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
@@ -77,24 +72,26 @@ Here are some of the innovations I've been crafting:
 
 ---
 
-### 🤝 Let's Collaborate
+### 🛰 Featured Projects
+
+🚧 *Coming soon:* I’m curating the best projects I’ve built across full-stack apps, secure platforms, marketing tools, and more.  
+✨ You’ll be able to explore them right here or on my [Portfolio Website](https://yourdomain.com) *(Launching soon)*.
+
+---
+
+### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:ishivaoliver@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://twitter.com/oliverambrose11" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://instagram.com/oliver_ishiva" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/ishivaoliver" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:ishivaoliver@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://twitter.com/oliverambrose11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://instagram.com/oliver_ishiva"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/ishivaoliver"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💬 Quote I Live By
-
-> *"The future belongs to those who engineer it."*  
-> — *Oliver Ambrose Ishiva*
-
----
+> 💬 *“Open to collaborations, freelance gigs, and powerful ideas that change the world.”*
 
 <p align="center">
-  <sub>© 2025 Oliver Ambrose Ishiva — Powered by passion & next-gen code ⚙️</sub>
+  <sub>© 2025 Oliver Ambrose Ishiva | Built with 💻 & futuristic vision</sub>
 </p>
