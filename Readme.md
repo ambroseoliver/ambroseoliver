@@ -3,7 +3,7 @@
   <img src="https://yourdomain.com/banner.gif" alt="Welcome Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Oliver Ambrose Ishiva</h1>
+<h1 align="center">Hi 👋, I'm Oliver Ambrose</h1>
 <h3 align="center">Full-Stack Developer ⚙️ | Cybersecurity Specialist 🛡 </h3>
 
 <p align="center">
