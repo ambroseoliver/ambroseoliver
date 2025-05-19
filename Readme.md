@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Oliver Ambrose Ishiva</h1>
-<h3 align="center">Full-Stack Developer ⚙️ | Cybersecurity Specialist 🛡 | Graphic Designer 🎨 | Digital Marketer 📈</h3>
+<h3 align="center">Full-Stack Developer ⚙️ | Cybersecurity Specialist 🛡 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishivaoliver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -14,13 +14,14 @@
 
 ### 🧠 About Me
 
-🚀 I'm a **multi-skilled technologist** based in Nairobi, building the future at the crossroads of design, security, development, and marketing.
+🚀 I'm a **Full-Stack Software Developer** and **Cybersecurity Specialist** based in Nairobi, Kenya — building secure, scalable, and elegant digital systems.
 
-💡 I **architect full-stack solutions**, **design visually compelling brands**, **market with digital precision**, and **secure digital assets** with best-in-class practices.
+💻 I specialize in architecting robust full-stack applications while applying security-first principles to every layer of development.
 
-🌐 Currently leveling up my full-stack and cybersecurity superpowers while exploring cutting-edge innovations.
+🛡 I also help businesses safeguard their platforms with offensive and defensive cybersecurity strategies, audits, and secure code practices.
 
-> "I don’t just build — I craft digital ecosystems that are secure, stunning, and scalable."
+🎯 My mission? To blend innovation, performance, and protection into every project I touch.
+
 
 ---
 
@@ -38,7 +39,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,php,html,css,tailwind,bootstrap,figma,aws,docker,kubernetes,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,js,ts,react,nextjs,nodejs,express,python,django,php,,aws,docker,kubernetes,linux,git,github" />
 </p>
 
 > 💡 *From frontend finesse to backend logic. From secure cloud deployment to stunning UI — I deliver seamless, scalable, and secure systems.*
