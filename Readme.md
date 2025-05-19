@@ -64,11 +64,27 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:ishivaoliver@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://twitter.com/oliverambrose11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://instagram.com/oliver_ishiva"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://github.com/ishivaoliver"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" title="Discord" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30" height="30" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/oliverambrose11" title="Twitter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" height="30" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/oliver_ishiva" title="Instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ishivaoliver" title="GitHub" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
+  </a>
 </p>
+
 
 ---
 
