@@ -48,22 +48,41 @@ Currently sharpening my full-stack and cybersecurity skills, I am eager to colla
 
 ---
 
+---
+
 <div align="center" style="display: flex; justify-content: center; gap: 40px;">
 
   <div>
     <h3>📈 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=ishivaoliver&theme=merko&show_icons=true" alt="GitHub stats" />
+    <p>⭐ Total Stars Earned: 15</p>
+    <p>⏱️ Total Commits (2025): 345</p>
+    <p>🛠️ Total PRs: 48</p>
+    <p>❗ Total Issues: 1</p>
+    <p>📖 Contributed to (last year): 9</p>
+    <p align="center"><img src="https://via.placeholder.com/80/B-?Text=B-" alt="GitHub Grade" /></p>
   </div>
 
   <div>
     <h3>🛠️ Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivaoliver&layout=compact&theme=merko" alt="Top Languages" />
+    <p>C: 61.13%</p>
+    <p>JavaScript: 16.51%</p>
+    <p>CSS: 9.00%</p>
+    <p>Blade: 5.20%</p>
+    <p>HTML: 4.68%</p>
+    <p>PHP: 3.49%</p>
+    <div style="display: flex; align-items: center;">
+      <div style="width: 61px; height: 10px; background-color: #808080; margin-right: 5px;"></div>
+      <div style="width: 17px; height: 10px; background-color: #FFDF00; margin-right: 5px;"></div>
+      <div style="width: 9px; height: 10px; background-color: #A371F7; margin-right: 5px;"></div>
+      <div style="width: 5px; height: 10px; background-color: #DC422F; margin-right: 5px;"></div>
+      <div style="width: 5px; height: 10px; background-color: #E34C26; margin-right: 5px;"></div>
+      <div style="width: 3px; height: 10px; background-color: #4F5D95;"></div>
+    </div>
   </div>
 
 </div>
 
 ---
-
 ---
 
 ### 📫 Let's Connect
