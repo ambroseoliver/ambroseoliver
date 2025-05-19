@@ -17,10 +17,12 @@ Currently sharpening my full-stack and cybersecurity skills, I am eager to colla
 
 ### 🚀 What I Do
 
+- 💻 Build robust and scalable web applications — frontend & backend
+- - 🔐 Secure systems and applications against evolving cyber threats
 - 🎯 Craft compelling digital marketing strategies that drive real results  
 - 🎨 Design eye-catching graphics and brand assets to elevate your presence  
-- 💻 Build robust and scalable web applications — frontend & backend  
-- 🔐 Secure systems and applications against evolving cyber threats
+
+
 
 ---
 
@@ -38,8 +40,7 @@ Currently sharpening my full-stack and cybersecurity skills, I am eager to colla
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 *...and many more!*
 
