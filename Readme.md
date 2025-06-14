@@ -96,5 +96,5 @@
 > 💬 *“Open to collaborations, freelance gigs, and powerful ideas that change the world.”*
 
 <p align="center">
-  <sub>© 2025 Oliver Ambrose Ishiva | Built with 💻 & futuristic vision</sub>
+  <sub>© 2025 Oliver Ambrose Ishiva </sub>
 </p>
