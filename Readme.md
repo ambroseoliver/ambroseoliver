@@ -41,13 +41,12 @@
 ---
 
 ### 🧰 🧠 Tech Stack & Tools
-
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,js,ts,react,nextjs,nodejs,express,python,django,php,,aws,docker,kubernetes,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vue,nuxt,figma" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,mysql,postgres,mongodb,prisma,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i,git,github,linux,vscode,postman,docker,vercel,netlify" />
 </p>
 
-> 💡 *From frontend finesse to backend logic. From secure cloud deployment to stunning UI — I deliver seamless, scalable, and secure systems.*
 
 ---
 
