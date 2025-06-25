@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Oliver Ambrose</h1>
 <h3 align="center">Full-Stack Developer ⚙️ | Cybersecurity Specialist 🛡 </h3>
 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishivaoliver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
