@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Oliver Ambrose</h1>
-<h3 align="center">Full-Stack Developer ⚙️ | Cybersecurity Specialist 🛡 </h3>
+
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
