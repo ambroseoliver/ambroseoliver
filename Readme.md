@@ -49,10 +49,12 @@
 
 ---
 
-#### Responsive Card Theme
 
-[![AmbroseOliver's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![AmbroseOliver's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
+### 📊 Stats
+
+![AmbroseOliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 
 ---
