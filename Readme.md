@@ -1,4 +1,4 @@
-<!-- Header Banner (upload your custom futuristic GIF to a repo or image host) -->
+
 <p align="center">
   <img src="https://yourdomain.com/banner.gif" alt="Welcome Banner" width="100%" />
 </p>
