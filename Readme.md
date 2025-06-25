@@ -48,8 +48,6 @@
 </p>
 
 
----
-
 
 
 ## 🚀 My GitHub Performance Snapshot
