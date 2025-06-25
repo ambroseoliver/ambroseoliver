@@ -72,7 +72,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚧+Curating+the+future+of+code...;✨+Next-gen+projects+dropping+soon!" alt="Coming Soon Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚧+Curating+the+future+of+code...;✨+Next-gen+projects+dropping+soon!" alt="" />
   
   <br/><br/>
   
@@ -82,12 +82,6 @@
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-Designing%20Magic-orange?style=flat&logo=figma&logoColor=white">
   
   <br/><br/>
-
-  💡 *I'm currently refining and polishing my best full-stack apps, secure platforms, and marketing tools to give you an exceptional experience.*
-
-  🚀 Projects will be fully showcased here and on my  
-  🔗 [**Portfolio Website**](https://yourdomain.com) *(Launching soon...)*
-
 </div>
 
 ---
