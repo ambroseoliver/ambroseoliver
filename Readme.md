@@ -50,7 +50,7 @@
 
 
 
-## 🚀 My GitHub Performance Snapshot
+## 🚀 Stats
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Fueling+code+with+creativity+%F0%9F%9A%80;Tracking+contributions+in+style+%F0%9F%94%A5" alt="Typing SVG" />
@@ -70,8 +70,25 @@
 
 ### 🛰 Featured Projects
 
-🚧 *Coming soon:* I’m curating the best projects I’ve built across full-stack apps, secure platforms, marketing tools, and more.  
-✨ You’ll be able to explore them right here or on my [Portfolio Website](https://yourdomain.com) *(Launching soon)*.
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚧+Curating+the+future+of+code...;✨+Next-gen+projects+dropping+soon!" alt="Coming Soon Typing Banner" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Full--Stack-Coming%20Soon-informational?style=flat&logo=vercel&logoColor=white&color=0A0A0A">
+  <img src="https://img.shields.io/badge/Security%20Tools-In%20Progress-blueviolet?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Loading-yellow?style=flat&logo=githubactions&logoColor=black">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-Designing%20Magic-orange?style=flat&logo=figma&logoColor=white">
+  
+  <br/><br/>
+
+  💡 *I'm currently refining and polishing my best full-stack apps, secure platforms, and marketing tools to give you an exceptional experience.*
+
+  🚀 Projects will be fully showcased here and on my  
+  🔗 [**Portfolio Website**](https://yourdomain.com) *(Launching soon...)*
+
+</div>
 
 ---
 
