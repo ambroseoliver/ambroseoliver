@@ -63,7 +63,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=false&border_radius=15" alt="AmbroseOliver's GitHub Stats" width="430"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut-vertical&theme=tokyonight&hide_border=false&border_radius=15" alt="Top Languages Donut Chart" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut-vertical&theme=tokyonight&hide_border=false&border_radius=15" alt="Top Languages Donut Chart" height="300" width="320"/>
 </div>
 
 
