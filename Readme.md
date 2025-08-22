@@ -19,13 +19,9 @@
 
 ### 🧠 About Me
 
-🚀 I'm a **Full-Stack Software Developer** and **Cybersecurity Specialist** based in Nairobi, Kenya — building secure, scalable, and elegant digital systems.
-
-💻 I specialize in architecting robust full-stack applications while applying security-first principles to every layer of development.
-
-🛡 I also help businesses safeguard their platforms with offensive and defensive cybersecurity strategies, audits, and secure code practices.
-
-🎯 My mission? To blend innovation, performance, and protection into every project I touch.
+🚀 I’m a Full-Stack Developer and Cybersecurity Specialist from Nairobi, Kenya.
+💻 I build secure, scalable applications with a strong focus on performance and protection.
+🎯 My mission is to blend innovation, security, and reliability into every project.
 
 
 ---
