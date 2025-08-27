@@ -20,7 +20,7 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-🚀 <b>Full-Stack Developer</b> & <b>Cybersecurity Specialist</b> from <i>Nairobi, Kenya</i> <br>
+🚀 <b>Junior Full-Stack Developer</b> & <b>Cybersecurity Specialist</b> from <i>Nairobi, Kenya</i> <br>
 💻 I craft <b>secure, scalable applications</b> with a strong focus on <b>performance & protection</b> <br>
 🎯 My mission is to blend <b>innovation, security, and reliability</b> into every project I build  
 </p>
