@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Oliver Ambrose</span></h1>
 
 <p align="center">
-  <em>🚀 Full-Stack Developer | 🎨 Designer | 🔐 Cybersecurity Enthusiast | 💡 Visionary Builder</em>
+  <em>🚀Jr Full-Stack Developer |  Designer |💡 Visionary Builder</em>
 </p>
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right" alt="Coding Illustration" />
