@@ -40,9 +40,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=false&border_radius=20&rank_icon=github" alt="Ambrose Oliver’s GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=20&rank_icon=github" alt="Oliver Ambrose’s GitHub Stats" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut&theme=tokyonight&hide_border=false&border_radius=20" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut&theme=tokyonight&hide_border=false&border_radius=20" alt="Top Languages" height="180" />
 
 </div>
 
@@ -63,7 +63,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ishivaoliver" target="_blank" title="GitHub">
+  <a href="https://github.com/ambroseoliver" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
