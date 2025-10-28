@@ -1,4 +1,4 @@
-<!-- ⚡ GitHub Profile README for Oliver Ambrose -->
+<!--Profile README for Oliver Ambrose -->
 
 <p align="center">
   <img src="https://i.postimg.cc/ZKxK2fkc/futuristic-banner.gif" alt="Oliver Ambrose Futuristic Banner" width="100%" />
@@ -82,8 +82,7 @@
 
 ---
 
-> ⚡ *Driven by curiosity, powered by innovation, and inspired by the future.*
 
 <p align="center">
-  <sub>© 2025 <strong>Oliver Ambrose Ishiva</strong> — All Rights Reserved 🌌</sub>
+  <sub>© 2025 <strong>Oliver Ambrose Ishiva</strong> — All Rights Reserved</sub>
 </p>
