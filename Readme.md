@@ -1,38 +1,41 @@
+<!-- 🌌 Futuristic GitHub Profile README for Oliver Ambrose -->
 
 <p align="center">
   <img src="https://yourdomain.com/banner.gif" alt="Welcome Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Oliver Ambrose</h1>
-
-
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Oliver Ambrose</span></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishivaoliver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <em>🚀 Full-Stack Developer | 🎨 Designer | 🔐 Cybersecurity Enthusiast | 💡 Visionary Builder</em>
 </p>
 
-##
-"Talk is cheap. Show me the code." – Linus Torvalds
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right" alt="Coding Illustration" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ambroseoliver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
+> 💬 *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
+---
 
-### 🧰 🧠 Tech Stack & Tools
+## 🧠 Tech Stack & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vue,nuxt,figma" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,mysql,postgres,mongodb,prisma,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i,git,github,linux,vscode,postman,docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker,vercel,netlify" />
 </p>
 
-
-
+---
 
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Fueling+Code+with+Creativity+%F0%9F%9A%80;Tracking+Impact+in+Style+%F0%9F%94%A5;Building+Tomorrow's+Tech+Today+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Fueling+Code+with+Creativity+%F0%9F%9A%80;Tracking+Impact+in+Style+%F0%9F%94%A5;Building+Tomorrow's+Tech+Today+%F0%9F%8C%9F" alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -43,59 +46,36 @@
 
 </div>
 
-
-
-
-
 ---
 
-### 🛰 Featured Projects
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚧+Curating+the+future+of+code...;✨+Next-gen+projects+dropping+soon!" alt="" />
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Full--Stack-Coming%20Soon-informational?style=flat&logo=vercel&logoColor=white&color=0A0A0A">
-  <img src="https://img.shields.io/badge/Security%20Tools-In%20Progress-blueviolet?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Loading-yellow?style=flat&logo=githubactions&logoColor=black">
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-Designing%20Magic-orange?style=flat&logo=figma&logoColor=white">
-  
-  <br/><br/>
-</div>
-
----
-
-### 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" title="Discord" target="_blank">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" title="Discord">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30" height="30" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/oliverambrose11" title="Twitter" target="_blank">
+  <a href="https://twitter.com/oliverambrose11" target="_blank" title="Twitter">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" height="30" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/oliver_ishiva" title="Instagram" target="_blank">
+  <a href="https://instagram.com/oliver_ishiva" target="_blank" title="Instagram">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ishivaoliver" title="GitHub" target="_blank">
+  <a href="https://github.com/ishivaoliver" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
   </a>
 </p>
 
-
 ---
 
-> 💬 *“Open to collaborations, freelance gigs, and powerful ideas that change the world.”*
+> 💡 *Open to collaborations, freelance projects, and innovative ideas that make a difference.*
 
 <p align="center">
-  <sub>© 2025 Oliver Ambrose Ishiva </sub>
+  <sub>© 2025 <strong>Oliver Ambrose Ishiva</strong> — All Rights Reserved ⚡</sub>
 </p>
