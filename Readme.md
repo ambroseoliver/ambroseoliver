@@ -1,4 +1,4 @@
-<!-- 🌌 Futuristic GitHub Profile README for Oliver Ambrose -->
+<!--  GitHub Profile README for Oliver Ambrose -->
 
 <p align="center">
   <img src="https://yourdomain.com/banner.gif" alt="Welcome Banner" width="100%" />
@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Oliver Ambrose</span></h1>
 
 <p align="center">
-  <em>🚀Jr Full-Stack Developer |  Designer |💡 Visionary Builder</em>
+  <em>Jr Full-Stack Developer|💡 Visionary Builder</em>
 </p>
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right" alt="Coding Illustration" />
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=ambroseoliver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+
 
 > 💬 *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
