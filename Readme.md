@@ -29,13 +29,6 @@
 
 ---
 
-### 💼 What I Bring to the Table
-
-- 🔧 End-to-end software development (frontend + backend)
-- 🛡 Cybersecurity audits, threat modeling & defense
-- 🎨 Creative graphic design for impactful branding
-- 📊 Data-driven digital marketing strategies
-- 🤝 Collaboration-ready mindset & commitment to excellence
 
 ---
 
