@@ -29,18 +29,20 @@
 
 
 
-## 🚀 Stats
+## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Fueling+code+with+creativity+%F0%9F%9A%80;Tracking+contributions+in+style+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Fueling+Code+with+Creativity+%F0%9F%9A%80;Tracking+Impact+in+Style+%F0%9F%94%A5;Building+Tomorrow's+Tech+Today+%F0%9F%8C%9F" alt="Typing Animation" />
 </p>
 
-<div align="center" style="display: flex; gap: 100px; flex-wrap: wrap; justify-content: center; align-items: center; padding: 20px;">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=false&border_radius=15" alt="AmbroseOliver's GitHub Stats" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=false&border_radius=20&rank_icon=github" alt="Ambrose Oliver’s GitHub Stats" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut-vertical&theme=tokyonight&hide_border=false&border_radius=15" alt="Top Languages Donut Chart" height="280" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut&theme=tokyonight&hide_border=false&border_radius=20" alt="Top Languages" height="180"/>
+
 </div>
+
 
 
 
