@@ -39,20 +39,14 @@
 ## 🚀 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fueling+Code+with+Creativity+%F0%9F%9A%80;Innovating+with+Purpose+%F0%9F%94%A5;Building+Tomorrow's+Tech+Today+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=20&cache_seconds=1800" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut&theme=tokyonight&border_radius=20&cache_seconds=1800" height="180" />
 </p>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=20&rank_icon=github" alt="Oliver Ambrose GitHub Stats" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut&theme=tokyonight&hide_border=false&border_radius=20" alt="Top Languages" height="180" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambroseoliver&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub Streak" height="180" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ambroseoliver&theme=tokyonight&border_radius=20&cache_seconds=1800" height="180" />
+</p>
 
 ---
 
