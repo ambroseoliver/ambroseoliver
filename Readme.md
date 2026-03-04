@@ -22,14 +22,7 @@
 
 <h3 align="center">Backend Engineer • Cloud Enthusiast • Open Source Explorer</h3>
 
----
-
-### 👩‍💻 About Me
-
-- 🔭 I build scalable backend systems and cloud-native applications  
-- 🌍 Passionate about distributed systems & DevOps culture  
-- 📚 Currently diving deeper into Kubernetes, system design & performance optimization  
-- ⚡ I enjoy shipping real-world projects and experimenting with new technologies  
+--- 
 
 ---
 
@@ -67,25 +60,10 @@
 
 <div align="center">
 
-### 💬 Philosophy
-
+### 💬
 > *“Talk is cheap. Show me the code.”*  
 > — **Linus Torvalds**
 
 </div>
 
 ---
-
-### 🚀 What Drives Me
-
-I believe in building first, proving through execution, and letting the code speak for itself.  
-Clean architecture. Efficient systems. Real impact.
-
----
-
-If you’d like, I can also create:
-- A **minimal elite version**
-- A **super flashy animated version**
-- Or a **clean recruiter-friendly professional version**
-
-Just tell me the vibe you want 😎
