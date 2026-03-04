@@ -1,104 +1,91 @@
-<!-- =========================
-  Oliver Ambrose • GitHub Profile README
-  ========================= -->
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-<p align="center">
-  <img src="https://i.postimg.cc/ZKxK2fkc/futuristic-banner.gif" alt="Futuristic Banner" width="100%" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ambroseoliver" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="https://twitter.com/ambroseoliver" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>
+  </a>
+  <a href="https://www.youtube.com/@ambroseoliver" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
+  </a>
+</div>
 
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#00BFFF">Oliver Ambrose</span>
-</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ambroseoliver.ambroseoliver" />
+</div>
 
-<p align="center">
-  <em>💻 Full-Stack Developer • 💡 Visionary Builder • 🚀 Tech Enthusiast</em>
-</p>
+<h1 align="center">Hey 👋 I'm Ambrose Oliver</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="360" alt="Developer Illustration" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ambroseoliver&label=Profile%20Views&color=0abfff&style=flat-square" alt="Profile Views" />
-</p>
+<h3 align="center">Backend Engineer • Cloud Enthusiast • Open Source Explorer</h3>
 
 ---
 
-> 💬 *“Talk is cheap. Show me the code.”*  
+### 👩‍💻 About Me
+
+- 🔭 I build scalable backend systems and cloud-native applications  
+- 🌍 Passionate about distributed systems & DevOps culture  
+- 📚 Currently diving deeper into Kubernetes, system design & performance optimization  
+- ⚡ I enjoy shipping real-world projects and experimenting with new technologies  
+
+---
+
+### 🛠 Languages & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ambroseoliver&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Philosophy
+
+> *“Talk is cheap. Show me the code.”*  
 > — **Linus Torvalds**
 
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vue,nuxt,figma" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,mysql,postgres,mongodb,prisma,firebase" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel,netlify" />
-</p>
+</div>
 
 ---
 
-## 🚀 GitHub Analytics
+### 🚀 What Drives Me
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ambroseoliver&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=20&cache_seconds=1800"
-    height="180"
-    alt="GitHub Stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambroseoliver&layout=donut&theme=tokyonight&border_radius=20&cache_seconds=1800"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ambroseoliver&theme=tokyonight&border_radius=20&cache_seconds=1800"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
+I believe in building first, proving through execution, and letting the code speak for itself.  
+Clean architecture. Efficient systems. Real impact.
 
 ---
 
-## ✨ What I Do
+If you’d like, I can also create:
+- A **minimal elite version**
+- A **super flashy animated version**
+- Or a **clean recruiter-friendly professional version**
 
-- 🔥 Build scalable full-stack applications  
-- 🎨 Design clean, user-focused interfaces  
-- ⚙️ Architect APIs & backend systems  
-- 🚀 Turn ideas into production-ready products  
-
----
-
-## 🌍 Let’s Connect & Collaborate
-
-<p align="center">
-  <a href="https://twitter.com/oliverambrose11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/oliver_ishiva" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ambroseoliver" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>© 2025 <strong>Oliver Ambrose Ishiva</strong> — Built with passion & precision</sub>
-</p>
-"
+Just tell me the vibe you want 😎
