@@ -22,10 +22,6 @@
 
 <h3 align="center">Backend Engineer • Cloud Enthusiast • Open Source Explorer</h3>
 
---- 
-
----
-
 ### 🛠 Languages & Tools
 
 <div align="left">
