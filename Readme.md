@@ -20,33 +20,73 @@
 
 <h1 align="center">Hey 👋 I'm Ambrose Oliver</h1>
 
-<h3 align="center">Backend Engineer • Cloud Enthusiast • Open Source Explorer</h3>
+<h3 align="center">Full Stack Developer • MERN & Django Specialist • Cloud Explorer</h3>
 
-### 🛠 Languages & Tools
+---
+
+## 🚀 About Me
+
+- 💻 I build scalable full-stack applications using **MERN** and **Django**
+- ⚙️ Passionate about backend architecture & API design
+- ☁️ Exploring cloud-native systems & DevOps workflows
+- 🌍 Open Source Contributor
+- 🎯 Focused on writing clean, maintainable, production-ready code
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40"/>
 </div>
 
 ---
 
-### 📊 
+### 🧠 Backend
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40"/>
+</div>
+
+---
+
+### 🗄 Databases
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+</div>
+
+---
+
+### ⚙️ DevOps & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ambroseoliver&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
@@ -54,12 +94,28 @@
 
 ---
 
+## 🔥 What I’m Currently Working On
+
+- 🏗 Building scalable REST APIs
+- 🔐 Authentication & authorization systems
+- 📦 Microservices architecture
+- ☁️ Cloud deployments & containerization
+
+---
+
 <div align="center">
 
-### 💬
+## 💬 Dev Philosophy
+
 > *“Talk is cheap. Show me the code.”*  
 > — **Linus Torvalds**
 
 </div>
 
 ---
+
+<div align="center">
+  
+⭐️ From <b>Ambrose Oliver</b> — Let’s build something amazing.
+
+</div>
