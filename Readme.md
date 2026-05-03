@@ -18,7 +18,7 @@ Currently sharpening my backend and full-stack engineering skills through hands-
 
 ---
 
-## 🛠️ Tech Stack  
+## Stack  
 
 **Languages**  
 `JavaScript` `Python` `HTML` `CSS`  
