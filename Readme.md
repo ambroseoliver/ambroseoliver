@@ -8,13 +8,6 @@ Currently sharpening my backend and full-stack engineering skills through hands-
 
 ---
 
-## 🚀 What I’m Focused On  
-
-- Building **production-ready full-stack applications**
-- Writing **clean, maintainable, and well-documented code**
-- Strengthening **backend development (APIs, databases, authentication)**
-- Preparing for **real-world engineering teams and workflows**
-
 ---
 
 ## 🛠️ Tech Stack  
